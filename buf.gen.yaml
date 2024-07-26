@@ -1,6 +1,6 @@
 version: v2
 managed:
-  enabled: false
+  enabled: true
   override:
     - file_option: go_package
       value: hellobuf/gen/acme/weather/v1;weather
